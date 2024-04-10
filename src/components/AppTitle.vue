@@ -3,7 +3,7 @@ export default {
     name: "AppTitle",
     data() {
             return {
-                title: 'La mia prima app con Vite!'
+                title: 'Dusan Vlahovic 9'
             }
         }
 }
